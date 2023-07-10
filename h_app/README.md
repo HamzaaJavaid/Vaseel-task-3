@@ -1,16 +1,8 @@
-# h_app
+# h_app  
 
-A new Flutter project.
+A new Flutter project for Vaseel Fellowship as a Task # 3 .  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+![1st Screen](https://github.com/HamzaaJavaid/Vaseel-task-3/assets/115164085/d7bcedcf-1328-47e0-850e-f2ac72863e67)
+![2nd Screen](https://github.com/HamzaaJavaid/Vaseel-task-3/assets/115164085/0541cbf5-509b-4272-8473-bfe20950ef12)
+![3rd Screen](https://github.com/HamzaaJavaid/Vaseel-task-3/assets/115164085/ed1dbb99-046f-404b-8c28-ae082c75fdd1)
